@@ -35,7 +35,7 @@ CALL showMhs();
 
 Stored Procedure juga dapat berisi parameter untuk dimasukkan dan dieksekusi pada querynya. Berikut ini adalah contoh stored procedure untuk menampilkan data mahasiswa berdasarkan jenis kelamin tertentu.
 
-sql```
+```sql
 DELIMITER //
 CREATE PROCEDURE showMhsByGender
 (
