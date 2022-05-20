@@ -14,7 +14,7 @@ BEGIN
   SELECT * FROM mahasiswa
   WHERE jKelamin = gender;
 END //
-DELIMITER;
+DELIMITER ;
 
 DELIMITER //
 CREATE PROCEDURE countMhs

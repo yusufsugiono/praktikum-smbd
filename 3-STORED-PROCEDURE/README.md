@@ -1,6 +1,6 @@
 # Modul 3 - Stored Procedure
 
-Pada modul 2, fokus materi yaitu mengenai Stored Procedure, dan yang akan kita lakukan adalah:
+Pada modul 3, fokus materi yaitu mengenai Stored Procedure, dan yang akan kita lakukan adalah:
 
 1. Membuat dan Memanggil Stored Procedure
 
